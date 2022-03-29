@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tushar15yadav
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on any project with supervision
+- 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me : tusharyadav1502@gmail.com
 
 <!---
